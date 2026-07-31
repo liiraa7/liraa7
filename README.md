@@ -52,7 +52,7 @@ Sistema para gerenciamento de horas trabalhadas, utilizando Java, Spring Boot e 
 Projeto focado na construção de APIs seguindo arquitetura em camadas, integração com banco de dados e boas práticas de desenvolvimento.
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101E44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldsobral/)****
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldsobral/)
 
 ## 📧 E-mail: 
 ronaldlira1080@gmail.com
