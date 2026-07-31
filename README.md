@@ -9,6 +9,13 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 # ⚙️ Princípio da Pilha
 
 ## Backend
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk)
+
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+
+![Maven](https://img.shields.io/badge/MAVEN-C71A36?style=for-the-badge&logo=apachemaven)
 
 ## Banco de Dados
 
