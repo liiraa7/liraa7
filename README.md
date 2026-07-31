@@ -37,6 +37,8 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,maven,docker,idea,postman)](https://skillicons.dev)
+
 🚀 ## Projetos em destaque
 
 🔹 Sistema Bancário
