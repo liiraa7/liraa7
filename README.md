@@ -39,7 +39,7 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,maven,docker,idea,postman)](https://skillicons.dev)
 
-🚀 ## Projetos em destaque
+🚀 Projetos em destaque
 
 🔹 Sistema Bancário
 
@@ -53,11 +53,11 @@ Sistema para gerenciamento de horas trabalhadas, utilizando Java, Spring Boot e 
 
 Projeto focado na construção de APIs seguindo arquitetura em camadas, integração com banco de dados e boas práticas de desenvolvimento.
 
-📫 ## Contato
+## 📫 Contato
 [https://github.com/liiraa7/liraa7/blob/main/README.md](https://www.linkedin.com/in/ronaldsobral/)
 
-📧 ## E-mail: 
+📧 E-mail: 
 ronaldlira1080@gmail.com
 
-📈 ## Objetivo
+📈 Objetivo
 Consolidar minha carreira como desenvolvedor backend, construindo soluções escaláveis, organizadas e orientadas a impacto real através da tecnologia.
