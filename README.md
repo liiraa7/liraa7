@@ -37,9 +37,7 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,maven,docker,idea,postman)](https://skillicons.dev)
-
-🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
 🔹 Sistema Bancário
 
@@ -56,8 +54,8 @@ Projeto focado na construção de APIs seguindo arquitetura em camadas, integra�
 ## 📫 Contato
 [https://github.com/liiraa7/liraa7/blob/main/README.md](https://www.linkedin.com/in/ronaldsobral/)
 
-📧 E-mail: 
+## 📧 E-mail: 
 ronaldlira1080@gmail.com
 
-📈 Objetivo
+## 📈 Objetivo
 Consolidar minha carreira como desenvolvedor backend, construindo soluções escaláveis, organizadas e orientadas a impacto real através da tecnologia.
