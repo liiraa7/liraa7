@@ -6,14 +6,15 @@ Estudante com experiência no desenvolvimento de projetos acadêmicos e pessoais
 
 Atualmente aprofundando conhecimentos em arquitetura backend, integração entre sistemas e aprimoramento contínuo no ecossistema Java.
 
-⚙️ Princípio da Pilha
-Backend
-Java
-Spring Boot
-Spring Data JPA
-Maven
-Programação Orientada a Objetos (POO)
-APIs REST
+# ⚙️ Princípio da Pilha
+
+## Backend
+
+## Banco de Dados
+
+## Integração Frontend
+
+## Ferramentas
 
 Banco de Dados
 PostgreSQL
